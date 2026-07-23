@@ -49,6 +49,23 @@ Nexus-Film-Fest-website/
 - Structured website content using semantic HTML.
 - Enhanced page layouts and styling with CSS.
 
+## Screenshots
+
+### Home Page
+![Home Page](screenshots/homepage.png.png)
+
+### Login Page
+![Login Page](screenshots/login-page.png.png)
+
+### Registration Page
+![Registration Page](screenshots/registration-page.png.png)
+
+### Schedule Page
+![Schedule Page](screenshots/schedule-page.png.png)
+
+### Venue Page
+![Venue Page](screenshots/venue-page.png.png)
+
 ## Author
 
 Jhonatan O. Valeryan
